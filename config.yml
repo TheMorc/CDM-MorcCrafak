@@ -1,0 +1,7 @@
+# CustomDeathMessage by Morca
+#    _________________
+#    |               |
+#    |   Ver: 1.2.5  |
+#    \_______________/
+
+death: ChatColor.RED + p.getName() + ChatColor.GRAY + " has been killed by " + ChatColor.GREEN + k.getName()
